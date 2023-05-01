@@ -6,7 +6,7 @@ logging:
       data.mongodb.core.MongoTemplate: DEBUG
       security: DEBUG
 
-allowed_origin: https://top-job-client.vercel.app
+allowed_origin: https://topjob.vercel.app
 spring:
   data:
     mongodb:
